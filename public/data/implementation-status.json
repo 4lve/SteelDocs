@@ -487,9 +487,7 @@
     },
     "DryVegetationBlock": {
       "implemented": true,
-      "todos": [
-        "Implement full vanilla behavior beyond can_survive."
-      ],
+      "todos": [],
       "entries": [
         "dead_bush"
       ]
@@ -505,18 +503,14 @@
     },
     "ShortDryGrassBlock": {
       "implemented": true,
-      "todos": [
-        "Implement full vanilla behavior beyond can_survive."
-      ],
+      "todos": [],
       "entries": [
         "short_dry_grass"
       ]
     },
     "TallDryGrassBlock": {
       "implemented": true,
-      "todos": [
-        "Implement full vanilla behavior beyond can_survive."
-      ],
+      "todos": [],
       "entries": [
         "tall_dry_grass"
       ]
@@ -2280,9 +2274,7 @@
     },
     "NetherRootsBlock": {
       "implemented": true,
-      "todos": [
-        "Implement full vanilla behavior beyond can_survive."
-      ],
+      "todos": [],
       "entries": [
         "warped_roots",
         "crimson_roots"
@@ -2761,9 +2753,7 @@
     },
     "CarpetBlock": {
       "implemented": true,
-      "todos": [
-        "Implement full vanilla behavior beyond can_survive."
-      ],
+      "todos": [],
       "entries": [
         "moss_carpet"
       ]
@@ -2824,15 +2814,13 @@
     },
     "HangingRootsBlock": {
       "implemented": true,
-      "todos": [
-        "Implement scheduled water-tick handoff on shape updates."
-      ],
+      "todos": [],
       "entries": [
         "hanging_roots"
       ]
     },
     "RootedDirtBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "rooted_dirt"
