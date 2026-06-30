@@ -1145,7 +1145,7 @@
       ]
     },
     "IronBarsBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "iron_bars",
@@ -1157,7 +1157,7 @@
       ]
     },
     "WeatheringCopperBarsBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "copper_bars",
@@ -1167,7 +1167,7 @@
       ]
     },
     "ChainBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "iron_chain",
@@ -1178,7 +1178,7 @@
       ]
     },
     "WeatheringCopperChainBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "copper_chain",
@@ -1239,8 +1239,11 @@
       ]
     },
     "FenceGateBlock": {
-      "implemented": false,
-      "todos": [],
+      "implemented": true,
+      "todos": [
+        "` rather than faked — every other behavior is 1:1.",
+        "vanilla sets OPEN/POWERED from level.hasNeighborSignal(pos);"
+      ],
       "entries": [
         "oak_fence_gate",
         "spruce_fence_gate",
@@ -1343,7 +1346,7 @@
       ]
     },
     "WallBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "resin_brick_wall",
@@ -1672,7 +1675,7 @@
       ]
     },
     "StainedGlassPaneBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "white_stained_glass_pane",
