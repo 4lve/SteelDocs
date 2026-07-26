@@ -1901,7 +1901,7 @@
       ]
     },
     "GlazedTerracottaBlock": {
-      "implemented": false,
+      "implemented": true,
       "todos": [],
       "entries": [
         "white_glazed_terracotta",
